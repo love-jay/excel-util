@@ -15,7 +15,7 @@
 
     <properties>
         <lombok.version>1.18.10</lombok.version>
-        <poi.version>4.1.1</poi.version>
+        <poi.version>5.4.0</poi.version>
         <jexl.version>2.1.1</jexl.version>
         <springfox.swagger2.version>2.10.0</springfox.swagger2.version>
         <fastjson.version>1.2.83</fastjson.version>
